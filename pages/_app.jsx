@@ -6,10 +6,8 @@ import '../styles/globals.css';
 function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
-      <AnimatePresence>
-        <Navbar />
-        <Component {...pageProps} />
-      </AnimatePresence>
+      <Navbar />
+      <Component {...pageProps} />
     </Fragment>
   );
 }

@@ -38,7 +38,7 @@ const MainAbout = () => {
         </div>
       </div>
 
-      <div className="relative mt-24">
+      <div className="relative mt-24" id="focus">
         <div className="grid sm:grid-cols-3 grid-cols-2 sm:gap-8 gap-4">
           <div className="z-20 w-12 h-12 bg-gray-800 rounded-full flex justify-center items-center">
             <svg

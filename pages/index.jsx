@@ -5,6 +5,8 @@ import moment from 'moment';
 import Hero from '../components/Home/Hero';
 import AboutSection from '../components/Home/AboutSection';
 import Vision from '../components/Home/Vision';
+import Us from '../components/Home/Us';
+import Focus from '../components/Home/Focus';
 
 export default function Home({ posts }) {
   console.log(posts);
@@ -14,6 +16,8 @@ export default function Home({ posts }) {
       <Hero />
       <AboutSection />
       <Vision />
+      <Us />
+      <Focus />
     </Fragment>
   );
 }
