@@ -286,7 +286,7 @@ const MainAbout = () => {
         <div className="w-full lg:w-6/12">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 lg:gap-12 gap-10">
             {/* <!-- Team Card --> */}
-            <div className="flex p-4 shadow-lg rounded-lg bg-sky-200">
+            <div className="flex p-4 shadow-lg rounded-lg ">
               <div className="mr-6">
                 <img className="h-24 w-24" alt="" src="/images/icon-01.svg" />
               </div>
@@ -300,7 +300,7 @@ const MainAbout = () => {
             </div>
 
             {/* <!-- Board Card --> */}
-            <div className="flex p-4 shadow-lg rounded-lg bg-sky-200">
+            <div className="flex p-4 shadow-lg rounded-lg ">
               <div className="mr-6">
                 <img className="h-24 w-24" alt="" src="/images/icon-02.svg" />
               </div>
@@ -313,7 +313,7 @@ const MainAbout = () => {
             </div>
 
             {/* <!-- Press Card --> */}
-            <div className="flex p-4 shadow-lg rounded-lg bg-sky-200">
+            <div className="flex p-4 shadow-lg rounded-lg ">
               <div className="mr-6">
                 <img className="h-24 w-24" alt="" src="/images/icon-03.svg" />
               </div>
@@ -327,7 +327,7 @@ const MainAbout = () => {
               </div>
             </div>
 
-            <div className="flex p-4 shadow-lg rounded-lg bg-sky-200">
+            <div className="flex p-4 shadow-lg rounded-lg ">
               <div className="mr-6">
                 <img className="h-24 w-24" alt="" src="/images/icon-04.svg" />
               </div>

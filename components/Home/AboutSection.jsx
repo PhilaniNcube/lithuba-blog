@@ -24,10 +24,9 @@ export default function AboutSection() {
               className="focus:outline-none text-base leading-6 mt-8 text-gray-600 2xl:pr-24 xl:pr-0 pr-12"
             >
               Lithuba Empowerment Hub is led and managed by professionals who
-              saw it befitting to use their skills to emancipate the
-              underprivileged population of the Port Elizabeth. We have a wealth
-              of experience in the corporate world, academia and consulting
-              spaces
+              saw it befitting to use their skills to enable emancipation of
+              marginalised communities of South Africa. We have a wealth of
+              experience in the corporate world, academia and consulting spaces
             </p>
             <div className="mt-10">
               <Link href="/about" passHref>
