@@ -6,12 +6,12 @@ import React, { Fragment } from 'react';
 export default function AboutSection() {
   return (
     <Fragment>
-      <motion.div className="py-20 2xl:px-0 lg:px-12 px-4 2xl:mx-auto 2xl:container bg-gray-50">
-        <div className="md:flex items-center justify-between w-full bg-gray-50">
+      <motion.div className="py-20 2xl:px-0 lg:px-12 px-4 bg-sky-300">
+        <div className="md:flex items-center justify-between  max-w-7xl mx-auto ">
           <div className="xl:w-1/3 md:w-1/2 w-full">
             <h1
               role="heading"
-              className="focus:outline-none text-purple-700 md:w-60 font-bold md:text-6xl text-4xl leading-tight text-gray-800"
+              className="focus:outline-none text-purple-700 md:w-60 font-bold md:text-6xl text-4xl leading-tight "
             >
               Lithuba
               <span className="font-normal text-gray-800 italic">

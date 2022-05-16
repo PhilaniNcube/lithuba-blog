@@ -4,7 +4,7 @@ import React, { Fragment } from 'react';
 export default function Events() {
   return (
     <Fragment>
-      <div className="md:px-0 sm:px-12 sm:px-0 px-4 mx-auto container pb-12">
+      <div className="md:px-0 sm:px-12 lg:px-0 px-4 mx-auto container pb-12">
         <div className="w-full md:flex items-center justify-between md:pt-0 pt-12 ">
           <div className="md:w-5/12 w-full">
             <h1
@@ -30,8 +30,8 @@ export default function Events() {
             />
           </div>
         </div>
-        <div className="pt-16 relative">
-          <div className="h-72 w-full bg-gray-100 absolute z-0 mt-4" />
+        <div className="py-16 relative w-full bg-sky-400/60 rounded-lg shadow-xl mt-6 px-4">
+          <div className="h-72 w-full  absolute z-0 mt-4" />
           <h2
             role="heading"
             className="text-2xl font-semibold leading-6 text-gray-800 relative z-20"

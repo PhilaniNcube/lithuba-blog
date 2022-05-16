@@ -17,7 +17,7 @@ export default function Home() {
               className="h-72 w-full object-cover object-center rounded-t-md"
               alt="woman smiling"
             />
-            <div className="bg-white shadow-md rounded-md py-4 text-center">
+            <div className="bg-sky-100 shadow-md rounded-b-md py-4 text-center">
               <p className="text-base font-medium leading-6 text-gray-600">
                 Samantha Jane
               </p>
@@ -44,7 +44,7 @@ export default function Home() {
               className="h-72 w-full object-cover object-center rounded-t-md"
               alt="woman in black dress"
             />
-            <div className="bg-white shadow-md rounded-md py-4 text-center">
+            <div className="bg-green-200 shadow-md rounded-b-md py-4 text-center">
               <p className="text-base font-medium leading-6 text-gray-600">
                 Marilyn Rhodes
               </p>
@@ -59,7 +59,7 @@ export default function Home() {
               className="h-72 w-full object-cover object-center rounded-t-md"
               alt="woman smiling"
             />
-            <div className="bg-white shadow-md rounded-md py-4 text-center">
+            <div className="bg-yellow-100 shadow-md rounded-b-md py-4 text-center">
               <p className="text-base font-medium leading-6 text-gray-600">
                 Marry Smith
               </p>
@@ -74,7 +74,7 @@ export default function Home() {
               className="h-72 w-full object-cover object-center rounded-t-md"
               alt="woman smiling"
             />
-            <div className="bg-white shadow-md rounded-md py-4 text-center">
+            <div className="bg-pink-200 shadow-md rounded-b-md py-4 text-center">
               <p className="text-base font-medium leading-6 text-gray-600">
                 John Renolds
               </p>
@@ -91,7 +91,7 @@ export default function Home() {
               className="h-72 w-full object-cover object-center rounded-t-md"
               alt="woman smiling"
             />
-            <div className="bg-white shadow-md rounded-md py-4 text-center">
+            <div className="bg-red-100 shadow-md rounded-b-md py-4 text-center">
               <p className="text-base font-medium leading-6 text-gray-600">
                 Annie Jackie
               </p>

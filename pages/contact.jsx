@@ -9,14 +9,14 @@ function Contact() {
           <Image
             width={640}
             height={440}
-            src="/images/contact.png"
-            alt="image of a dog with heart"
-            className="w-full h-full"
+            src="/images/contact.jpg"
+            alt="contact"
+            className="w-full h-full rounded-lg"
           />
-          <div className="flex flex-wrap items-center mt-8">
+          <div className="flex flex-wrap items-center mt-8 bg-sky-200">
             <div
               arial-label="Address"
-              className="mr-6 border md:w-auto w-full rounded border-gray-200 py-6 pr-9 pl-6"
+              className="mr-6 md:w-auto w-full rounded py-6 pr-9 pl-6"
             >
               <p className="text-base font-semibold leading-4 text-gray-900">
                 60 Zephyr Avenue,

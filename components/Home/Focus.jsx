@@ -88,7 +88,7 @@ export default function Focus() {
                         }}
                         className="relative  bg-cover w-full flex justify-center  flex-col rounded-md "
                       >
-                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64">
                           Unlocking Youth Talent
                         </h1>
 
@@ -123,7 +123,7 @@ export default function Focus() {
                         }}
                         className="relative bg-cover w-full flex justify-center  flex-col rounded-md "
                       >
-                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                           Women Empowerment
                         </h1>
 
@@ -158,7 +158,7 @@ export default function Focus() {
                         }}
                         className="relative bg-cover w-full flex justify-center flex-col rounded-md "
                       >
-                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                        <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64">
                           Entreprenuership
                         </h1>
 
@@ -285,7 +285,7 @@ export default function Focus() {
                           }}
                           className="relative  bg-cover w-full flex justify-center  flex-col rounded-md "
                         >
-                          <h1 className="w-40 text-white font-semibold text-left text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                          <h1 className="w-40 text-white font-semibold text-left text-lg absolute left-0 mt-7 ml-7 rounded  h-64">
                             Unlocking Youth Talent
                           </h1>
                           <Link href="/about#focus" passHref>
@@ -320,7 +320,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64">
                               Women Empowerment
                             </h1>
 
@@ -355,7 +355,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Entreprenuership
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -395,7 +395,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Unlocking Youth Talent
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -431,7 +431,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Women Empowerment
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -467,7 +467,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Entreprenuership
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -507,7 +507,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Unlocking Youth Talent
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -543,7 +543,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Women Empowerment
                             </h1>
                             <Link href="/about#focus" passHref>
@@ -579,7 +579,7 @@ export default function Focus() {
                             }}
                             className="relative  bg-cover w-full flex justify-center  flex-col  rounded-md "
                           >
-                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 relative">
+                            <h1 className="w-40 text-white font-semibold text-lg absolute left-0 mt-7 ml-7 rounded  h-64 ">
                               Entreprenuership
                             </h1>
                             <Link href="/about#focus" passHref>

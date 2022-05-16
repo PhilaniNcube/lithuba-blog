@@ -110,7 +110,7 @@ function Blogs() {
           </div>
         </div>
         <div className="flex items-center justify-center my-16 w-full">
-          <button className=" hover:bg-gray-200 border border-indigo-700 border-2 lg:text-2xl md:text-lg text-sm rounded f-m-m font-semibold text-indigo-700 focus:outline-none lg:px-12 px-6 lg:py-6 py-3 xl:leading-4">
+          <button className=" hover:bg-gray-200 border-indigo-700 border-2 lg:text-2xl md:text-lg text-sm rounded f-m-m font-semibold text-indigo-700 focus:outline-none lg:px-12 px-6 lg:py-6 py-3 xl:leading-4">
             Browse More
           </button>
         </div>

@@ -34,7 +34,7 @@ function Hero() {
 
   return (
     <div ref={containerRef} className="container mx-auto overflow-hidden">
-      <div className="flex flex-col md:flex-wrap md:flex-row px-8 md:px-0">
+      <div className="flex flex-col md:flex-wrap md:flex-row px-8 md:px-2">
         <div className="flex flex-col space-y-3 md:min-h-[80vh] mt-32 md:mt-4 justify-center md:max-w-1/2 ">
           <div className="overflow-hidden py-4">
             <h1
